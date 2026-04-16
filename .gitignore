@@ -1,0 +1,28 @@
+# Python environment
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+
+# Jupyter
+.ipynb_checkpoints/
+
+# macOS
+.DS_Store
+
+# Large local datasets (do not commit)
+test/
+trainval/
+
+# Generated artifacts / predictions
+artifacts/predictions/
+
+# Archives and large binaries
+*.zip
+*.tar
+*.tar.gz
+*.tgz
+*.7z
+*.rar
+
+artifacts/

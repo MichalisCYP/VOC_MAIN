@@ -1,0 +1,14 @@
+{
+  "version": "v1",
+  "created_from": "VOC_Main.ipynb",
+  "counts": {
+    "train": 5717,
+    "val": 5823,
+    "test": 10991
+  },
+  "files": {
+    "train_ids.txt": "0e19f1a4753564fced5bbf61b56b7117b22cc201c8f4707a336c9b5b5d9f6dad",
+    "val_ids.txt": "a697c0422085d84ae1c10eab6e6d92e7bcc3a5136b32971a23b9754411f996cb",
+    "test_ids.txt": "7b5d2c2614f9b4bf25bb834499c2ab50b1d27a4ed0f631f6bed264d89a4e3d3f"
+  }
+}
