@@ -40,6 +40,17 @@ Artifacts folder:
 5. [artifacts/group_split](artifacts/group_split): locked split IDs and split manifest.
 6. [artifacts/predictions](artifacts/predictions): per-model and ensemble CSV predictions.
 
+## Dataset setup
+
+The large dataset archives are shared on OneDrive and are not committed to Git.
+
+See [DATASET_INSTALLATION.md](DATASET_INSTALLATION.md) for the full setup steps.
+
+1. Download `test.zip` from the shared OneDrive link.
+2. Download `trainval.zip` from the shared OneDrive link.
+3. Unzip both archives in the repository root so the folders appear as [test](test) and [trainval](trainval).
+4. Keep the archive files out of version control; they are already covered by [.gitignore](.gitignore).
+
 ## Leakage prevention contract
 
 All team members must follow these rules:
