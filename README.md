@@ -42,12 +42,12 @@ Artifacts folder:
 
 ## Dataset setup
 
-The large dataset archives are shared on OneDrive and are not committed to Git.
+The large dataset archives are shared on SharePoint and are not committed to Git.
 
 See [DATASET_INSTALLATION.md](DATASET_INSTALLATION.md) for the full setup steps.
 
-1. Download `test.zip` from the shared OneDrive link.
-2. Download `trainval.zip` from the shared OneDrive link.
+1. Download `test.zip` from the shared SharePoint link: https://cf-my.sharepoint.com/:f:/r/personal/karamichalism_cardiff_ac_uk/Documents/CMT316-Group-7?csf=1&web=1&e=zhFDf8
+2. Download `trainval.zip` from the same location.
 3. Unzip both archives in the repository root so the folders appear as [test](test) and [trainval](trainval).
 4. Keep the archive files out of version control; they are already covered by [.gitignore](.gitignore).
 
