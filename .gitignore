@@ -28,3 +28,5 @@ artifacts/predictions/
 artifacts/
 
 version_2
+
+voc_dataset/
